@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.defaultWebAppToDeploy": "/subscriptions/0b211646-6bdc-4aa4-b3ab-0d6ad3cc92ad/resourceGroups/TQLDemoRG/providers/Microsoft.Web/sites/TQLDemoMessager",
+    "appService.deploySubpath": ".\\bin\\Release\\net6.0\\publish\\"
+}

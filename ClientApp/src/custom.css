@@ -1,0 +1,32 @@
+h1{
+  color: white;
+}
+
+body{
+  background-color: #202124;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #8909c0ca;
+  border-color: #8909c0ca;
+}
+
+.btn-primary:hover, .btn-primary:active {
+  background-color: #5e0584;
+  border-color: #5e0584;
+}
+
+.v-center{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.verification-msg {
+  color: green;
+}
+
+.error {
+  color: red;
+}
